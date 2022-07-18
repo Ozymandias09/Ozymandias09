@@ -13,4 +13,5 @@
 Gosto de tecnologia e de a usar para resolver problemas do mundo real, programação se define para mim como poesia da mente para a máquina.
 
 ## Meu email para contatos é : batista.vinicius09@gmail.com</br>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e7af8d6e-784a-43ce-a2d8-5c226f2a3a85" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
